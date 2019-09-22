@@ -1,0 +1,112 @@
+  {
+    "logger":"com.company.soft.MySoft",
+    "timestamp":"1399473218962",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"Starting application..."
+  },
+  {
+    "logger":"com.company.soft.business.CacheBuilder",
+    "timestamp":"1399473218974",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"Building cache..."
+  },
+  {
+    "logger":"com.company.soft.business.CacheBuilder",
+    "timestamp":"1399473218988",
+    "level":"ERROR",
+    "thread":"Thread-4",
+    "message":"Unable to build cache: DB connection not available.\nDriver not found"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473219128",
+    "level":"WARN",
+    "thread":"Thread-4",
+    "message":"Cache not ready, reading from DB..."
+  },
+  {
+    "logger":"com.company.soft.gui.options.OptionFrame",
+    "timestamp":"1399473389654",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"Initializing Frame..."
+  },
+  {
+    "logger":"com.company.soft.gui.options.OptionFrame",
+    "timestamp":"1399473389660",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"Frame initialized."
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473389010",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"New data collected"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473389021",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"New data displayed"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473390010",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"New data collected"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473390022",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"New data displayed"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473391010",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"New data collected"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473391015",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"New data displayed"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473392011",
+    "level":"DEBUG",
+    "thread":"Thread-4",
+    "message":"New data collected"
+  },
+  {
+    "logger":"com.company.soft.gui.DataCollector",
+    "timestamp":"1399473392015",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"New data displayed"
+  },
+  {
+    "logger":"com.company.soft.MySoftConfig",
+    "timestamp":"1399473599437",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"Saving current config to file"
+  },
+  {
+    "logger":"com.company.soft.MySoft",
+    "timestamp":"1399473600001",
+    "level":"INFO",
+    "thread":"Thread-4",
+    "message":"Stopping application"
+  }
